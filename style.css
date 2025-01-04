@@ -1,0 +1,18 @@
+#game-container {
+    width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+}
+
+#text-output {
+    margin-bottom: 10px;
+    min-height: 100px;
+    white-space: pre-wrap;
+}
+
+#user-input {
+    width: 80%;
+    padding: 5px;
+}
